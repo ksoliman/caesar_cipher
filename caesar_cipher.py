@@ -83,6 +83,7 @@ with open("key.txt",'w+') as k:
 print('Document successfully encrypted!')
 print()
 
+
 ##yes_no = False
 ##while (yes_no == False):
 ##        selection = input('Decrypt file? (y/n) ')
